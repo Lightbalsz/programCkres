@@ -1,0 +1,14 @@
+D:\aaIQBAL\test kerja\nawadata\SortChar\obj\Debug\net9.0\SortChar.GeneratedMSBuildEditorConfig.editorconfig
+D:\aaIQBAL\test kerja\nawadata\SortChar\obj\Debug\net9.0\SortChar.AssemblyInfoInputs.cache
+D:\aaIQBAL\test kerja\nawadata\SortChar\obj\Debug\net9.0\SortChar.AssemblyInfo.cs
+D:\aaIQBAL\test kerja\nawadata\SortChar\obj\Debug\net9.0\SortChar.csproj.CoreCompileInputs.cache
+D:\aaIQBAL\test kerja\nawadata\SortChar\bin\Debug\net9.0\SortChar.exe
+D:\aaIQBAL\test kerja\nawadata\SortChar\bin\Debug\net9.0\SortChar.deps.json
+D:\aaIQBAL\test kerja\nawadata\SortChar\bin\Debug\net9.0\SortChar.runtimeconfig.json
+D:\aaIQBAL\test kerja\nawadata\SortChar\bin\Debug\net9.0\SortChar.dll
+D:\aaIQBAL\test kerja\nawadata\SortChar\bin\Debug\net9.0\SortChar.pdb
+D:\aaIQBAL\test kerja\nawadata\SortChar\obj\Debug\net9.0\SortChar.dll
+D:\aaIQBAL\test kerja\nawadata\SortChar\obj\Debug\net9.0\refint\SortChar.dll
+D:\aaIQBAL\test kerja\nawadata\SortChar\obj\Debug\net9.0\SortChar.pdb
+D:\aaIQBAL\test kerja\nawadata\SortChar\obj\Debug\net9.0\SortChar.genruntimeconfig.cache
+D:\aaIQBAL\test kerja\nawadata\SortChar\obj\Debug\net9.0\ref\SortChar.dll

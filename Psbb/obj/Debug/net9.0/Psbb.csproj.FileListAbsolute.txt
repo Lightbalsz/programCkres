@@ -1,0 +1,14 @@
+D:\aaIQBAL\test kerja\nawadata\Psbb\bin\Debug\net9.0\Psbb.exe
+D:\aaIQBAL\test kerja\nawadata\Psbb\bin\Debug\net9.0\Psbb.deps.json
+D:\aaIQBAL\test kerja\nawadata\Psbb\bin\Debug\net9.0\Psbb.runtimeconfig.json
+D:\aaIQBAL\test kerja\nawadata\Psbb\bin\Debug\net9.0\Psbb.dll
+D:\aaIQBAL\test kerja\nawadata\Psbb\bin\Debug\net9.0\Psbb.pdb
+D:\aaIQBAL\test kerja\nawadata\Psbb\obj\Debug\net9.0\Psbb.GeneratedMSBuildEditorConfig.editorconfig
+D:\aaIQBAL\test kerja\nawadata\Psbb\obj\Debug\net9.0\Psbb.AssemblyInfoInputs.cache
+D:\aaIQBAL\test kerja\nawadata\Psbb\obj\Debug\net9.0\Psbb.AssemblyInfo.cs
+D:\aaIQBAL\test kerja\nawadata\Psbb\obj\Debug\net9.0\Psbb.csproj.CoreCompileInputs.cache
+D:\aaIQBAL\test kerja\nawadata\Psbb\obj\Debug\net9.0\Psbb.dll
+D:\aaIQBAL\test kerja\nawadata\Psbb\obj\Debug\net9.0\refint\Psbb.dll
+D:\aaIQBAL\test kerja\nawadata\Psbb\obj\Debug\net9.0\Psbb.pdb
+D:\aaIQBAL\test kerja\nawadata\Psbb\obj\Debug\net9.0\Psbb.genruntimeconfig.cache
+D:\aaIQBAL\test kerja\nawadata\Psbb\obj\Debug\net9.0\ref\Psbb.dll
